@@ -68,7 +68,7 @@ code review不是一上来就看代码，这样有可能你会看的云里雾里
 - 代码有相应完善的文档。
 - 代码风格符合规范。
 - 代码有没有更优的实现？（性能、资源占用等情况）。
-更多更细节的内容，可以参考：谷歌工程实践——代码评审 https://github.com/xindoo/eng-practices-cn。
+更多更细节的内容，可以参考：谷歌工程实践——代码评审 [https://github.com/xindoo/eng-practices-cn。](https://github.com/xindoo/eng-practices-cn)
 
 # code review的礼节
 - 首先CR不是你个人炫技的舞台，看到别人代码的问题需要礼貌指出，切忌diss别人。
